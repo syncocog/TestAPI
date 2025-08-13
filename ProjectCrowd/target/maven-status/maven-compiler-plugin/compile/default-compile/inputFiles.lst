@@ -1,0 +1,13 @@
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/ProjectCrowdPlugin.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/ai/DuelsAI.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/ai/EggWarsAI.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/ai/GameAI.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/ai/SurvivalAI.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/bot/BotEntity.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/bot/BotManager.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/commands/BotCommand.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/engine/ChatEngine.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/engine/CombatEngine.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/engine/MovementEngine.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/integration/BungeeIntegration.java
+/workspace/ProjectCrowd/src/main/java/com/projectcrowd/util/TablistService.java

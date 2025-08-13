@@ -1,0 +1,22 @@
+name: ProjectCrowd
+main: com.projectcrowd.ProjectCrowdPlugin
+version: 1.0.0
+api-version: "1.21"
+author: ProjectCrowd
+website: https://example.com/projectcrowd
+softdepend:
+  - ProtocolLib
+  - BungeeCord
+commands:
+  bot:
+    description: Manage AI bots
+    usage: /bot <spawn|remove|count|send>
+    aliases: [bots]
+    permission: bot.admin
+permissions:
+  bot.admin:
+    description: Access to all bot commands
+    default: op
+  bot.view:
+    description: Can view bot count
+    default: true
